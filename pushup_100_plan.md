@@ -2,13 +2,15 @@
 
 **Start Date:** Monday, 9 Feb 2026  
 **Goal:** Reach 100 push-ups in one unbroken set in ~8–12 weeks.  
-**Gym:** Keep following your existing 6-day workout routine.
+**Gym:** Mon/Tue/Wed at gym, Thu/Fri at Cult.fit, Sat bodyweight, Sun rest.
 
 ---
 
 ## How to Use This Plan
 
-- Push-up sessions are planned for **Mon, Wed, Fri, Sat**. Other days: focus on normal gym work and recovery.
+- Push-up sessions are planned for **Mon, Wed, Thu, Fri**. Saturday's 50 pushups (from your bodyweight routine) count as easy volume.
+- **Mon & Wed:** Do push-up work **after** your gym workout.
+- **Thu & Fri:** Do push-up work **at home before** Cult.fit class. These 100 pushups follow the plan's structure — not random reps.
 - Always do **2–3 light warm-up sets** (8–12 easy push-ups) before the day’s main work.
 - Maintain **perfect form**: full range of motion, tight core, no sagging hips.
 - If a day feels too hard, reduce reps by 2–3 per set and complete the structure.
@@ -19,49 +21,50 @@
 
 ### Monday 9 Feb – Strength Base
 
-- Gym: Your **Monday** workout (Chest + Triceps + Abs).
-- Push-ups (after chest/triceps):
+- Gym: **Chest + Triceps + Abs** workout.
+- Push-ups (**after** chest/triceps):
   - 5 sets × **18–20 reps** (about 50–60% of your current 1-set max).
   - Rest **60–90 sec** between sets.
 
-### Tuesday 10 Feb – Recovery (No Push-Up Session)
+### Tuesday 10 Feb – No Push-Ups
 
-- Gym: Your **Tuesday** workout (Back + Biceps + 20m Cardio).
-- Push-ups: **None planned** – just light stretching, shoulder mobility if you like.
+- Gym: **Back + Biceps + Cardio**.
+- Push-ups: **None** – light stretching, shoulder mobility if you like.
 
 ### Wednesday 11 Feb – Density Session
 
-- Gym: Your **Wednesday** workout (Legs + Shoulders).
-- Push-ups (after workout):
+- Gym: **Legs + Shoulders** workout.
+- Push-ups (**after** workout):
   - Set a **10-minute timer**.
   - Do **sets of 12–15 reps** whenever you feel ready.
   - Stay **2–3 reps away from failure** each set.
   - Note your **total reps in 10 mins**.
 
-### Thursday 12 Feb – Active Recovery
+### Thursday 12 Feb – Technique + Endurance (Before Cult.fit Upper Body)
 
-- Gym: Your **Thursday** workout (LISS Cardio + Abs).
-- Push-ups: **None** – let elbows/shoulders recover.
-
-### Friday 13 Feb – Technique + Endurance
-
-- Gym: Your **Friday** workout (Full Body Compound).
-- Push-ups (after workout):
+- Push-ups (**at home, before Cult.fit**):
   - 3 sets of **max − 5 reps** (if you could do 35 fresh, aim ~30 each set).
   - Rest **2–3 min** between sets.
   - Then 2 sets of **slow negatives**: 5 reps each, **3–4 sec lowering** per rep.
+  - Total will be ~100 reps. ✅
+- Cult.fit: Upper Body Strength class.
 
-### Saturday 14 Feb – Volume Support
+### Friday 13 Feb – Volume Support (Before Cult.fit Lower Body)
 
-- Gym: Your **Saturday** HIIT Cardio/Sport.
-- Push-ups (separate from HIIT if possible):
-  - 4–5 sets × **15 reps**, easy pace.
+- Push-ups (**at home, before Cult.fit**):
+  - 4–5 sets × **20 reps**, easy pace.
   - Rest **60 sec** between sets. Stop well before failure.
+  - Total = ~100 reps. ✅
+- Cult.fit: Lower Body Strength class (push-ups won't interfere).
+
+### Saturday 14 Feb – Easy Volume (Built into Bodyweight Routine)
+
+- Your bodyweight routine already includes **50 pushups (5×10)**.
+- That's your easy volume for the day. No extra push-up work needed.
 
 ### Sunday 15 Feb – Full Rest
 
-- Gym: **Rest day.**
-- Push-ups: **None.** Sleep, hydrate, light walking only.
+- **No push-ups.** Sleep, hydrate, light walking only.
 
 ---
 
@@ -122,42 +125,39 @@ Assume your new max is around **40–45 reps**. Adjust the numbers below to ~60�
 
 ### Monday – Heavy Sets
 
-- Gym: Monday routine.
-- Push-ups:
+- Gym: Chest + Triceps + Abs.
+- Push-ups (after workout):
   - 6 sets × **24–30 reps** (≈60–70% of your new max).
   - Rest **90 sec**.
 
-### Tuesday – Rest From Push-Ups
+### Tuesday – No Push-Ups
 
-- Gym: Tuesday routine.
-- Push-ups: None.
+- Gym: Back + Biceps + Cardio.
 
 ### Wednesday – Ladder Session
 
-- Gym: Wednesday routine.
+- Gym: Legs + Shoulders.
 - Push-ups (after workout):
   - Ladder 1: 10 → 12 → 14 → 16 → 18 reps, **45–60 sec** rest between.
   - Rest 2–3 min.
   - Ladder 2: repeat if you can stay 1–2 reps from failure.
 
-### Thursday – No Push-Ups
+### Thursday – Density (Before Cult.fit Upper Body)
 
-- Gym: Thursday routine.
-- Push-ups: None.
-
-### Friday – Density (Longer)
-
-- Gym: Friday routine.
-- Push-ups:
+- Push-ups (at home, before class):
   - **12-minute timer.**
   - Sets of **14–18 reps**, stay short of failure.
-  - Aim to beat previous density totals.
+  - Aim for ~100 total reps. ✅
+
+### Friday – Easy Volume (Before Cult.fit Lower Body)
+
+- Push-ups (at home, before class):
+  - 5 sets × **20 reps** at a comfortable pace.
+  - Total = 100. ✅
 
 ### Saturday – Easy Volume
 
-- Gym: Saturday routine.
-- Push-ups:
-  - 4–5 sets × **18–20 reps** at a comfortable pace.
+- 50 pushups built into your bodyweight routine. No extra.
 
 ### Sunday – Rest
 
@@ -171,20 +171,23 @@ Assume your new max is around **40–45 reps**. Adjust the numbers below to ~60�
 
 ### Monday
 
-- Gym: Monday routine.
-- Push-ups: 6 sets × **26–32 reps** (still ~60–70% of current max).
+- Gym: Chest + Triceps + Abs.
+- Push-ups (after workout): 6 sets × **26–32 reps** (still ~60–70% of current max).
 
 ### Wednesday
 
-- Gym: Wednesday routine.
-- Push-ups: 2 ladders, aim to **add 2 reps** to the top rung (e.g., 10–12–14–16–20).
+- Gym: Legs + Shoulders.
+- Push-ups (after workout): 2 ladders, aim to **add 2 reps** to the top rung (e.g., 10–12–14–16–20).
 
-### Friday
+### Thursday – Before Cult.fit Upper Body
 
-- Gym: Friday routine.
-- Push-ups: 12-minute density; try to beat Week 3 total by **10+ reps**.
+- Push-ups: 12-minute density; try to beat Week 3 Thursday total by **10+ reps**. Aim for ~100. ✅
 
-Other days (Tue, Thu, Sat, Sun): same pattern as Week 3 (no extra push-up work except optional easy sets Saturday: 4×18–20).
+### Friday – Before Cult.fit Lower Body
+
+- Push-ups: 5 sets × **20 reps**, comfortable pace. Total = 100. ✅
+
+Other days (Tue, Sat, Sun): Tue no push-ups, Sat 50 from bodyweight routine, Sun full rest.
 
 ---
 
@@ -194,33 +197,36 @@ Re-test max once at start of Week 5. You may be around **50–60+ reps**. Adjust
 
 ### Monday – Cluster to High Total
 
-- Gym: Monday routine.
-- Push-ups:
+- Gym: Chest + Triceps + Abs.
+- Push-ups (after workout):
   - Goal: **80–100 total reps** using short rests.
   - Example: Do **30 reps**, rest 20 sec; 15 reps, rest 20 sec; repeat 10–15-rep mini-sets until you hit 80–100 total.
 
 ### Wednesday – High Volume Sets
 
-- Gym: Wednesday routine.
-- Push-ups:
+- Gym: Legs + Shoulders.
+- Push-ups (after workout):
   - 8–10 sets × **50–60% of your current max** (e.g., if max is 60, do 8–10 sets of 30–36 reps).
   - Rest **60 sec**.
 
-### Friday – Extended Density
+### Thursday – Extended Density (Before Cult.fit Upper Body)
 
-- Gym: Friday routine.
-- Push-ups:
+- Push-ups (at home, before class):
   - **15-minute timer.**
   - Sets of **18–22 reps**.
-  - Aim for **150–200 total reps** over 15 minutes.
+  - Aim for **100–120 total reps** over 15 minutes. ✅
 
-### Saturday – Easy Flow
+### Friday – Easy Flow (Before Cult.fit Lower Body)
 
-- Gym: Saturday routine.
-- Push-ups:
-  - 4–5 sets × **20 reps**, all comfortable and clean.
+- Push-ups (at home, before class):
+  - 5 sets × **20 reps**, all comfortable and clean.
+  - Total = 100. ✅
 
-Other days (Tue, Thu, Sun): no push-up work.
+### Saturday – Easy Volume
+
+- 50 pushups from bodyweight routine. No extra.
+
+Other days (Tue, Sun): no push-up work.
 
 ---
 
@@ -229,14 +235,15 @@ Other days (Tue, Thu, Sun): no push-up work.
 Keep the same layout as Week 5, but:
 
 - Try to **reduce rest times slightly** (by ~5–10 sec) where safe.
-- Aim to add **5–10 total reps** to Monday and Friday sessions.
+- Aim to add **5–10 total reps** to Monday and Thursday sessions.
 
 Daily pattern:
 
-- **Mon:** Cluster to 90–110 total reps.
-- **Wed:** 8–10 sets at 50–65% of max.
-- **Fri:** 15-min density, push total reps a bit higher.
-- **Sat:** 4–5 easy sets of 20–22 reps.
+- **Mon (after gym):** Cluster to 90–110 total reps.
+- **Wed (after gym):** 8–10 sets at 50–65% of max.
+- **Thu (before Cult.fit Upper):** 15-min density, push total reps higher. Aim ~100–120. ✅
+- **Fri (before Cult.fit Lower):** 5 sets × 20–22 easy reps. Total ~100. ✅
+- **Sat:** 50 from bodyweight routine.
 - Other days: no push-up work.
 
 ---
@@ -254,23 +261,27 @@ You may now be around **70–80+ reps** in one set. Focus on very specific prep.
 
 ### Wednesday – Long Cluster
 
-- Gym: Wednesday routine.
-- Push-ups:
+- Gym: Legs + Shoulders.
+- Push-ups (after workout):
   - Goal: **120–140 total reps** with **10–20 sec rests** between mini-sets.
   - Use mini-sets of 20–25 reps until you reach the total.
 
-### Friday – Submax Sets
+### Thursday – Submax Sets (Before Cult.fit Upper Body)
 
-- Gym: Friday routine.
-- Push-ups:
+- Push-ups (at home, before class):
   - 5–6 sets × **60–70% of your current max**.
   - Rest **60–75 sec**.
+  - Aim for ~100 total. ✅
 
-### Saturday – Easy Technique Day
+### Friday – Easy Technique Day (Before Cult.fit Lower Body)
 
-- Gym: Saturday routine.
-- Push-ups:
-  - 4–5 sets × **15–20 smooth reps**, focus on speed and form.
+- Push-ups (at home, before class):
+  - 5 sets × **20 smooth reps**, focus on speed and form.
+  - Total = 100. ✅
+
+### Saturday – Easy Volume
+
+- 50 from bodyweight routine. No extra.
 
 Other days: no push-up work.
 
@@ -288,12 +299,18 @@ Other days: no push-up work.
 ### Wednesday – Light Cluster
 
 - Goal: keep endurance but not create heavy fatigue.
-- Push-ups:
+- Push-ups (after Legs + Shoulders workout):
   - 60–80 total reps in mini-sets of 15–20 with short rests.
 
-### Friday – Very Light
+### Thursday – Very Light (Before Cult.fit Upper Body)
 
-- 3–4 sets × 12–15 easy push-ups. Stop far from failure.
+- Push-ups (at home, before class):
+  - 3–4 sets × 12–15 easy push-ups. Stop far from failure.
+  - Total ~50–60 only. Tapering down. ⬇️
+
+### Friday – Rest From Push-Ups
+
+- No push-ups before Cult.fit Lower Body this week. Let everything recover.
 
 ### Saturday or Monday (Next Week) – Second 100 Attempt
 
